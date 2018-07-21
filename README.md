@@ -1,4 +1,4 @@
-# Fashion-MNIST Image Classification using Dyra-Net
+# Fashion-MNIST Image Classification with Dyra-Net
 This is a proof-of-concept on solving the multi-class classification task using dyad ranking [1].
 The test classification accuracy of the proposed model (Dyra-Net) is about 0.906 using the original training/test sets. All images were scaled to the unit interval.
 
