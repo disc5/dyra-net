@@ -32,7 +32,7 @@ For more information about the model and the implementation see `code`.
 The scores produced by the dyad ranking model can be used for a visualization called ```dyadic multidimensional unfolding```.
 <img src="images/unfolding_dyra.gif" width="100%">
 
-## Cite
+---
 If you like the idea, or build upon it, please cite the paper [1]. You an also contact me, if you have questions, comments or if you are interested in some kind of collaboration.
 
 [1] Dyad ranking using Plackett–Luce models based on joint feature representations, D. Schäfer & E. Hüllermeier, 2018
